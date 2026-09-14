@@ -1,0 +1,8 @@
+﻿id,6297759
+apiKey,sk-ws-H.EHXPPRX.BWiG.MEUCID2NT732tsSHfTI6lk7l-DtMMgTPPFO88woIgIZ0TFb2AiEA9F4SUnrdvXfk_it4zlWyreanZI2Pgf2pKzgbID5_xGc
+apiHost,ws-dk1stak7joq7uvvx.cn-beijing.maas.aliyuncs.com
+openAiCompatible,https://ws-dk1stak7joq7uvvx.cn-beijing.maas.aliyuncs.com/compatible-mode/v1
+dashScope,https://ws-dk1stak7joq7uvvx.cn-beijing.maas.aliyuncs.com/api/v1
+description,qwen-vl 视觉模型
+workspaceName,默认业务空间
+workspaceId,ws-dk1stak7joq7uvvx
