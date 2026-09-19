@@ -50,9 +50,9 @@ pip install langchain langchain-community langchain-huggingface \
 
 # 2. 按地区放置政策文件（文件夹名 = 地区名）
 docs/
-├── 新干县/2026年考试招生工作实施意见.docx
-├── 浮梁县/2026年城区义务教育学校招生工作方案.docx
-└── 月湖区/义务教育学校招生入学工作的通知.docx
+├── 211县/2026年考试招生工作实施意见.docx
+├── 985县/2026年城区义务教育学校招生工作方案.docx
+└── 911区/义务教育学校招生入学工作的通知.docx
 
 # 3. 建库
 python ingest.py
